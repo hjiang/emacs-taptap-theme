@@ -10,4 +10,4 @@ Copy (or link) `taptap-theme.el` into `~/.emacs.d/`.
 
 Then add the following line in `init.el`:
 
-    (load-theme 'taptap t)%
+    (load-theme 'taptap t)
